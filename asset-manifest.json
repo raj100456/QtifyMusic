@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QtifyMusic/static/css/main.53c6c352.css",
+    "main.js": "/QtifyMusic/static/js/main.ab555c46.js",
+    "static/media/headphone.svg": "/QtifyMusic/static/media/headphone.66e109c97f55e2a35a02d810fa2b6650.svg",
+    "static/media/libraryIcon.svg": "/QtifyMusic/static/media/libraryIcon.1aa58223ff4d1b7e8c2cfee725d3779c.svg",
+    "static/media/shuffleIcon.svg": "/QtifyMusic/static/media/shuffleIcon.baac2873238aca24e1149761c20a5a0d.svg",
+    "static/media/Search icon.svg": "/QtifyMusic/static/media/Search icon.dd412b17d027f487794a6a6efed1d8be.svg",
+    "static/media/RightArrow.svg": "/QtifyMusic/static/media/RightArrow.a6df7267b849a9614cec8af502c31473.svg",
+    "static/media/LeftArrow.svg": "/QtifyMusic/static/media/LeftArrow.5781bceed04d06d298a7762c22c64a5d.svg",
+    "index.html": "/QtifyMusic/index.html",
+    "static/media/crossBtn.svg": "/QtifyMusic/static/media/crossBtn.59c0c5056aeb62b8676e72ba911ceb45.svg",
+    "static/media/downArrow.svg": "/QtifyMusic/static/media/downArrow.352730e2271b88950af8a6bdeac517e6.svg",
+    "static/media/upArrow.svg": "/QtifyMusic/static/media/upArrow.074ebc0a466e768cfe8be049efd325c5.svg",
+    "main.53c6c352.css.map": "/QtifyMusic/static/css/main.53c6c352.css.map",
+    "main.ab555c46.js.map": "/QtifyMusic/static/js/main.ab555c46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c6c352.css",
+    "static/js/main.ab555c46.js"
+  ]
+}
