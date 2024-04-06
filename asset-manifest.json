@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/QtifyMusic/static/css/main.53c6c352.css",
-    "main.js": "/QtifyMusic/static/js/main.ab555c46.js",
+    "main.js": "/QtifyMusic/static/js/main.70b3d520.js",
     "static/media/headphone.svg": "/QtifyMusic/static/media/headphone.66e109c97f55e2a35a02d810fa2b6650.svg",
     "static/media/libraryIcon.svg": "/QtifyMusic/static/media/libraryIcon.1aa58223ff4d1b7e8c2cfee725d3779c.svg",
     "static/media/shuffleIcon.svg": "/QtifyMusic/static/media/shuffleIcon.baac2873238aca24e1149761c20a5a0d.svg",
@@ -13,10 +13,10 @@
     "static/media/downArrow.svg": "/QtifyMusic/static/media/downArrow.352730e2271b88950af8a6bdeac517e6.svg",
     "static/media/upArrow.svg": "/QtifyMusic/static/media/upArrow.074ebc0a466e768cfe8be049efd325c5.svg",
     "main.53c6c352.css.map": "/QtifyMusic/static/css/main.53c6c352.css.map",
-    "main.ab555c46.js.map": "/QtifyMusic/static/js/main.ab555c46.js.map"
+    "main.70b3d520.js.map": "/QtifyMusic/static/js/main.70b3d520.js.map"
   },
   "entrypoints": [
     "static/css/main.53c6c352.css",
-    "static/js/main.ab555c46.js"
+    "static/js/main.70b3d520.js"
   ]
 }
